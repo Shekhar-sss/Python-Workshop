@@ -27,3 +27,6 @@ All contributions are welcome. If you're interested in contributing, don't hesit
 We plan to continually update this repository as Python evolves in order to keep it current and relevant. 
 
 Let's embark on this illuminating Python journey together!
+![Python Test Artifact 1](https://cusy.io/de/assets/images/python-cheat-sheet.jpg/image_view_fullscreen)
+![Python Test Artifact 2](https://images.datacamp.com/image/upload/v1673614099/Python_Cheat_Sheet_for_Beginners_f939d6b1bb.png)
+![Python Test Artifact 3](https://i.pinimg.com/564x/83/d5/8e/83d58e33673cb33113fbac425480ef9f.jpg)
